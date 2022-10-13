@@ -1,0 +1,3 @@
+/home/derrick/CLion/Tiny-C-projects/NATO-alphabet/cmake-build-debug/CMakeFiles/NATO_alphabet.dir
+/home/derrick/CLion/Tiny-C-projects/NATO-alphabet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/derrick/CLion/Tiny-C-projects/NATO-alphabet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
